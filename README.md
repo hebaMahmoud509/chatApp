@@ -6,7 +6,7 @@ This is a simple chat application developed using Spring Boot and WebSocket. It 
 
 - **Real-time Chat:** Users can send and receive messages instantly using WebSocket.
 - **User Registration:** Users can create accounts to join the chat.
-- [Add any additional features your app has]
+
 
 ## Getting Started
 
